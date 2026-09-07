@@ -1,2 +1,5 @@
-# agentops-ai-oic-troubleshooter
-AgentOps AI - A Neuro SAN Studio based multi-agent system for OIC troubleshooting, root cause analysis, and incident resolution recommendations
+# AgentOps AI - OIC Troubleshooting Assistant
+
+Multi-Agent AI solution built using Neuro SAN Studio for analyzing Oracle Integration Cloud (OIC) failures, identifying root causes, retrieving historical resolutions, and recommending actions.
+
+Work in Progress - Hackathon Submission.
